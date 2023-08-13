@@ -1,11 +1,9 @@
-[![MasterHead](https://camo.githubusercontent.com/aaa898948fe14b4d16b051b3b5a2602e2329e150b5e6fe4814808a555e442660/68747470733a2f2f626c6f672e6269742e61692f77702d636f6e74656e742f75706c6f6164732f323031382f30392f486f772d746f2d456d6265642d4769744875622d47697374732d696e2d596f75722d446f63756d656e74732d426c6f672d42616e6e65722e706e67)]
+![MasterHead](https://camo.githubusercontent.com/aaa898948fe14b4d16b051b3b5a2602e2329e150b5e6fe4814808a555e442660/68747470733a2f2f626c6f672e6269742e61692f77702d636f6e74656e742f75706c6f6164732f323031382f30392f486f772d746f2d456d6265642d4769744875622d47697374732d696e2d596f75722d446f63756d656e74732d426c6f672d42616e6e65722e706e67)
 <h1 align="center">Hi 👋, I'm Arooj Chudhary</h1>
 <h3 align="center">A Full Stack Web Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aroojthedev&label=Profile%20views&color=0e75b6&style=flat" alt="aroojthedev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aroojthedev" alt="aroojthedev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
